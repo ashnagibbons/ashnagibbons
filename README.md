@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashna Gibbons
+- 👋 Hi, I’m Ashna!
 - 😄 Pronouns: she/her
 - 👀 I’m interested in all things data: data science and analysis, database management, data security and privacy, visualization, and of course machine learning!
 - 🌱 Always looking to explore new packages, languages, and libraries
